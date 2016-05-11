@@ -1,4 +1,5 @@
 ﻿Class Calculator
+<<<<<<< HEAD
 	
 	def add_operand(operand_C)
 		 @operand_temp = operand_C
@@ -35,4 +36,9 @@
 	end
 
 
+=======
+
+
+
+>>>>>>> 30a99edfc6f72bc865e9b2cacbb9a14aab998258
 end
