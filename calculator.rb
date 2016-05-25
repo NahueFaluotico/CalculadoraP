@@ -1,10 +1,10 @@
-﻿require_relative "sum"
-require_relative "difference"
-require_relative "multiplication"
-require_relative "division"
-require_relative "inverse"
-require_relative "square"
-require_relative "square_root"
+﻿require_relative "operations/sum"
+require_relative "operations/difference"
+require_relative "operations/multiplication"
+require_relative "operations/division"
+require_relative "operations/inverse"
+require_relative "operations/square"
+require_relative "operations/square_root"
 
 class Calculator
 	
